@@ -7,7 +7,7 @@ np.random.seed(0)
 # Number of rows
 num_rows = 2000
 # Percentage of fraudulent transactions
-fraud_percentage = 0.01
+fraud_percentage = 0.1
 
 # Generating data
 data = {
